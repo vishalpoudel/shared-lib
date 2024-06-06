@@ -15,8 +15,8 @@ this.script=script
 
 
  void func1(){
-     echo "abc"
-    
+     script.echo "abc"
+    script.echo "string is ${s}"
     
   }
 }
