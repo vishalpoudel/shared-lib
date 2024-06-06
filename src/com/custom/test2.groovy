@@ -5,7 +5,7 @@ class test2 {
   int a
   String s
 
-  func1(){
+ void func1(){
 echo "abc"
     
     
