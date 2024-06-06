@@ -1,6 +1,6 @@
 package com.custom;
 
-class abc {
+class test2 {
 
   int a
   String s
